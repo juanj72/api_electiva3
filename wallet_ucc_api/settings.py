@@ -41,7 +41,10 @@ INSTALLED_APPS = [
     'rest_framework',
     'user',
     'cuenta',
-    'django_filters'
+    'django_filters',
+    'ahorros',
+    'transaccion',
+  
 ]
 
 MIDDLEWARE = [
